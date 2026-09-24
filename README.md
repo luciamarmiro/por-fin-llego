@@ -30,3 +30,6 @@ Tablas de precios de un transporte dada una compañía.
 
 ## Tarjeta Juego de rol
 ![Fotografia tarjeta de rol cliente](tarjeta_cliente_quejandose_transporte.jpg)
+
+## Archivo de documentación de la configuracion
+[Configuración del entorno, Prerrequisitos](doc/configuracion.md)
