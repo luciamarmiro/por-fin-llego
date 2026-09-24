@@ -1,6 +1,7 @@
 # Por-Fin-LLego
 
 ## Documentación Exclusiva del Problema a Resolver
+
 Los estudiantes universitarios presentan descontento y frustración al no poder
 llegar correctamente tanto a clase como a su hogar, problema que se acentúa en
 aquellos estudiantes que no residen en la misma ciudad que en la que estudian.
@@ -29,3 +30,6 @@ Tablas de precios de un transporte dada una compañía.
 
 ## Tarjeta Juego de rol
 ![Fotografia tarjeta de rol cliente](tarjeta_cliente_quejandose_transporte.jpg)
+
+## Archivo de documentación de la configuracion
+[Configuración del entorno, Prerrequisitos](doc/configuracion.md)
